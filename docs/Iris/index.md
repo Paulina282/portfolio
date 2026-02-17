@@ -1,6 +1,6 @@
-# EDA danych dotyczących Titanica
+# EDA danych dotyczących Irysów
 
-Poniższy notebook zawiera drugą analizę, którą wykonałam w ramach nauki analizy danych i języka Pythona.
+Poniższy notebook zawiera pierwszą analizę, którą wykonałam w ramach nauki analizy danych i języka Pythona.
 
 
 <a href="iris_eda.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
