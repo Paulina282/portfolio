@@ -2,11 +2,11 @@
 
 Zapraszam do zapoznania się z moją pierwszą analizą danych, którą wykonałam w ramach zadania podczas nauki Pythona. 
 
-<a href="irysy_PJ_EDA.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="irysy_PJ_EDA (2).ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
 <iframe
     id="content"
-    src="irysy_PJ_EDA.html"
+    src="irysy_PJ_EDA (1).html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>
