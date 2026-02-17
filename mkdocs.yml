@@ -5,6 +5,8 @@ site_description: >-
 
 theme:
   name: material
+repo_name: Paulina282/portfolio/
+repo_url: https://github.com/Paulina282/portfolio
 
 nav:
 - Strona Domowa: index.md
