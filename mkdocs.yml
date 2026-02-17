@@ -1,0 +1,21 @@
+site_name: Portfolio
+site_author: PJ
+site_description: >-
+    Witam na stronie z moimi projektami
+
+theme:
+  name: material
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+    - "Redaktor": Redaktor/index.md
+- Poprzednie projekty:
+    - "Iris": Iris/index.md
+    - "Titanic": Titanic/index.md
+    - "Analiza uczestników kursu": Friends/index.md
+    - "Sprawdź swój czas na półmaratonie": Halfmarathon/index.md
+    
+
+
+
