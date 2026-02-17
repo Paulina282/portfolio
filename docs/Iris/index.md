@@ -1,7 +1,6 @@
-# EDA danych dotyczących Irysów
+# EDA dotycząca danych o irysach
 
-Poniższy notebook zawiera pierwszą analizę, którą wykonałam w ramach nauki analizy danych i języka Pythona.
-
+Poniższy notebook zawiera pierwszą analizę wykonaną przeze mnie w trakcie nauki analizy danych w języku Python.
 
 <a href="iris_eda.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
@@ -25,4 +24,3 @@ window.addEventListener('resize', function() {
     resizeIframeToFitContent(iframe);
 });
 </script>
-
