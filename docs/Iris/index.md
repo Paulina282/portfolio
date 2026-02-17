@@ -1,12 +1,13 @@
-# Analiza Danych EDA Irysów
+# EDA danych dotyczących Titanica
 
-Zapraszam do zapoznania się z moją pierwszą analizą danych, którą wykonałam w ramach zadania podczas nauki Pythona. 
+Poniższy notebook zawiera drugą analizę, którą wykonałam w ramach nauki analizy danych i języka Pythona.
 
-<a href="irysy_PJ_EDA1702.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+
+<a href="iris_eda.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
 <iframe
     id="content"
-    src="irysy_PJ_EDA1702.html"
+    src="iris_eda.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>
@@ -24,3 +25,4 @@ window.addEventListener('resize', function() {
     resizeIframeToFitContent(iframe);
 });
 </script>
+
