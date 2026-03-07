@@ -5,7 +5,7 @@ hide:
 
 To projekt, który ma za zadanie zbudować narzędzie pomocne w redakcji językowej plików tekstowych, szczególnie dłuższych publikacji. Podstawą będzie plik wgrany przez użytkownika, oczyszczony technicznie (np. podwójne spacje). Aplikacja będzie opierać się na bibliotece regex i SpaCy. 
 
-## Narzędzia
+###**Narzędzia**
 
 **Python** / **Regex** / **SpaCy** / **Streamlit** 
 
