@@ -5,18 +5,23 @@ site_description: >-
 
 theme:
   name: material
+  palette:
+    primary: deep purple
+    accent: lime
 repo_name: Paulina282/portfolio/
 repo_url: https://github.com/Paulina282/portfolio/
 
 nav:
-- Strona Domowa: index.md
+- O mnie: index.md
 - Obecny projekt:
     - "Redaktor": Redaktor/index.md
+    - "Ubezpieczenia": Ubezpieczenia/index.md
 - Poprzednie projekty:
     - "Iris": Iris/index.md
     - "Titanic": Titanic/index.md
     - "Analiza uczestników kursu": Friends/index.md
     - "Sprawdź swój czas na półmaratonie": Halfmarathon/index.md
+- Certyfikat: Certyfikat/index.md
     
 
 

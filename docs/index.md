@@ -1,6 +1,7 @@
-#**Paulina Janczylik**
-
-##**O mnie**
+hide:
+    - toc
+    
+##**Paulina Janczylik**
 
 Witam na stronie z moimi projektami. Naukę Pythona zaczęłam od tworzenia notebooków z analizą danych (Titanic, Iris). W ramach nauki Streamlit wykonałam aplikację przedstawiającą strukturę uczestników kursu programowania oraz aplikację do predykcji czasu ukończenia półmaratonu.
 

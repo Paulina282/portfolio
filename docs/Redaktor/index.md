@@ -1,6 +1,13 @@
-# Pomocnik redaktora
+hide:
+    - toc
+
+#**Pomocnik redaktora**
 
 To projekt, który ma za zadanie zbudować narzędzie pomocne w redakcji językowej plików tekstowych, szczególnie dłuższych publikacji. Podstawą będzie plik wgrany przez użytkownika, oczyszczony technicznie (np. podwójne spacje). Aplikacja będzie opierać się na bibliotece regex i SpaCy. 
+
+## Narzędzia
+
+**Python** / **Regex** / **SpaCy** / **Streamlit** 
 
 ![Redaktor](app-analiza1.jpg)
 

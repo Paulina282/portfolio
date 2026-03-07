@@ -1,3 +1,6 @@
+hide:
+    - toc
+
 #**Aplikacja ukazująca strukturę uczestników kursu programowania**
 
 To pierwsza zbudowana przeze mnie aplikacja. Bazą były dane z amkiety przeprowadzonej wśród uczestników kursu. Pozwala ona na ukazanie motywacji do nauki programowania wśród uczniów wybranych według zmiennych: liczba lat doświadczenia zawodowego, wiek, płeć, ulubione zwierzę, smak, hobby, miejsce spędzenia czasu itp. 
