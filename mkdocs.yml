@@ -13,7 +13,7 @@ repo_url: https://github.com/Paulina282/portfolio/
 
 nav:
 - O mnie: index.md
-- Obecny projekt:
+- Obecne projekty:
     - "Redaktor": Redaktor/index.md
     - "Ubezpieczenia": Ubezpieczenia/index.md
 - Poprzednie projekty:
@@ -21,7 +21,7 @@ nav:
     - "Titanic": Titanic/index.md
     - "Analiza uczestników kursu": Friends/index.md
     - "Sprawdź swój czas na półmaratonie": Halfmarathon/index.md
-- Certyfikat: Certyfikat/index.md
+- Kursy: Kursy/index.md
     
 
 
