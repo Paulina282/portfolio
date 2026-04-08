@@ -1,0 +1,24 @@
+# EDA dotycząca danych o pingwinach 
+
+Analiza surowych danych zebramych podczas badań nad pingwinami w ramach programu Palmer Station Long-Term Ecological Research (LTER) na Antarktydzie.
+
+<iframe
+    id="content"
+    src="pingwiny.html"
+    width="100%"
+    style="border:1px solid black;overflow:hidden;"
+></iframe>
+<script>
+function resizeIframeToFitContent(iframe) {
+    iframe.style.height = (iframe.contentWindow.document.documentElement.scrollHeight + 50) + "px";
+    iframe.contentDocument.body.style["overflow"] = 'hidden';
+}
+window.addEventListener('load', function() {
+    var iframe = document.getElementById('content');
+    resizeIframeToFitContent(iframe);
+});
+window.addEventListener('resize', function() {
+    var iframe = document.getElementById('content');
+    resizeIframeToFitContent(iframe);
+});
+</script>

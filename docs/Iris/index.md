@@ -2,7 +2,6 @@
 
 Poniższy notebook zawiera pierwszą analizę wykonaną przeze mnie w trakcie nauki analizy danych w języku Python.
 
-<a href="iris_eda.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
 <iframe
     id="content"
